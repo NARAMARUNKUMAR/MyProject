@@ -1,5 +1,7 @@
 <html>
-<h1>WELCOME TO THE WEB APPLICATION</h1>
+<h1>WELCOME TO THE WEB APPLICATION
+        GOOD MORNING
+	GOOD NIGHT
 <body>
 </body>
 </html>
